@@ -1,4 +1,0 @@
-﻿[*.cs]
-
-# IDE0011: Добавить фигурные скобки
-csharp_prefer_braces = false
